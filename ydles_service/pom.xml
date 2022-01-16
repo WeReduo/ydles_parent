@@ -10,6 +10,18 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>ydles_service</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>ydles_service_goods</module>
+        <module>ydles_service_order</module>
+        <module>ydles_service_config</module>
+        <module>ydles_service_business</module>
+        <module>ydles_service_user</module>
+        <module>ydles_service_system</module>
+        <module>ydles_service_file</module>
+        <module>com.ydles.file</module>
+
+    </modules>
 
 
 </project>
