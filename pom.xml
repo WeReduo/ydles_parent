@@ -15,6 +15,7 @@
         <module>ydles_common</module>
         <module>ydles_common</module>
         <module>ydles_common_db</module>
+        <module>ydles-user-oauth</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
